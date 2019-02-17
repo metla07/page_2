@@ -844,6 +844,7 @@ textarea:focus {
 .a-01 {
     display: block;
     color: #fff;
+    outline: none;
     text-decoration: none;
     width: 120px;
     height: 100px;
